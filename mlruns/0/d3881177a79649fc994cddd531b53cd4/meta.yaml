@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/virginia/Documents/workspace/test_knvb/mlruns/0/d3881177a79649fc994cddd531b53cd4/artifacts
+end_time: 1721052186927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d3881177a79649fc994cddd531b53cd4
+run_name: untuned_random_forest
+run_uuid: d3881177a79649fc994cddd531b53cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721052186891
+status: 4
+tags: []
+user_id: virginia

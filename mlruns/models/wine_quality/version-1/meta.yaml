@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1721054288012
+current_stage: Production
+description: null
+last_updated_timestamp: 1721055127219
+name: wine_quality
+run_id: 284424a3c6914445b4793f834c243319
+run_link: null
+source: file:///Users/virginia/Documents/workspace/test_knvb/mlruns/0/284424a3c6914445b4793f834c243319/artifacts/random_forest_model
+status: READY
+status_message: null
+storage_location: file:///Users/virginia/Documents/workspace/test_knvb/mlruns/0/284424a3c6914445b4793f834c243319/artifacts/random_forest_model
+user_id: null
+version: 1
